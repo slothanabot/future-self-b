@@ -12,7 +12,7 @@ to dance. Future-you is not wise, just tired of the same mistakes.
 
 import os
 
-LINE = "Future you here: the 'quick nap' becomes four hours. Set two alarms. Also, we still can't dance. Stop trying."
+LINE = "It's you from 2036. That 'quick nap' is four hours. Set two alarms — and stop trying to dance, we never learn."
 
 
 def build_line() -> str:
